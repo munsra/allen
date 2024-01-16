@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 #Security
-secrets.dart
+/lib/secrets.dart
