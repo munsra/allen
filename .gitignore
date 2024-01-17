@@ -45,3 +45,4 @@ app.*.map.json
 
 #Security
 /lib/secrets.dart
+lib/secrets.dart
